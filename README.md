@@ -1,5 +1,5 @@
 # Flood Damage Prediction
-## data
+## Data
 Download the raw data here: https://zenodo.org/records/4355693. Use the USFD file (USFD_v1.0.csv).
 
 ## How to use this code
