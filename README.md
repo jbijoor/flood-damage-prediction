@@ -18,4 +18,4 @@ Use DataVisualization.ipynb to generate graphs that describe and analyze the pre
 ### Models
 The models folder contains classification and regression models to generate predictions for flood damage.
 
-### To learn more about results visit the paper: Flood Damage Prediction.pdf
+### To learn more about results visit the paper: https://www.jsr.org/hs/index.php/path/article/view/6588
